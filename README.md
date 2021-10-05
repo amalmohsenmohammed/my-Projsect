@@ -1,3 +1,3 @@
-# my-Projsect
+# my-Project
 for training
-##project Notes
+## project Notes
